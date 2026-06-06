@@ -1,0 +1,32 @@
+:root {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+.title {
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  padding: 200px;
+}
+
+a {
+  color: aqua;
+
+}
+
+.a4 {
+  color: aquamarine;
+  padding: 50px;
+}
+
+.magellan {
+  color: lemonchiffon;
+  padding: 100px;
+  text-align: right;
+}
